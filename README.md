@@ -10,7 +10,7 @@
  
 - 🛡️ **Anonymously Protecting Information from Unauthorized Access**
     
-- 👦 **Wanna know about me deeply [https://konkomaji.blogspot.com/](konkomaji.com/)**
+- 👦 **Wanna know about me deeply [www.konkomaji.com](https://konkomaji.blogspot.com/)**
     
     
 - 📫 **Wanna reach me konkomaji@protonmail.com**
