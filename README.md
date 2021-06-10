@@ -6,7 +6,7 @@
 
 - 📚 **I’m currently studing in HS**
     
-- 👨‍💻 **Also currently Hacking Ethicaly**
+- 👨‍💻 **Also currently Hacking Ethically**
  
 - 🛡️ **Anonymously Protecting Information from Unauthorized Access**
     
