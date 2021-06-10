@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Konko👋</h1>
 <h3 align="center">_*_Anonymously protecting information from unauthorized access_*_</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Github%20Score&color=0e75b6&style=flat" alt="soumita1234" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=konkomaji&label=Github%20Score&color=0e75b6&style=flat" alt="konkomaji" /> </p>
+<img align="right" alt="kalilinux" width="400" src="https://1.bp.blogspot.com/-qXvGBnvRhLM/Xd3Wo4NBWYI/AAAAAAAAQ74/0ZyMYjG0u0wISdj_RKVyYW1a-xk5n6mFgCNcBGAsYHQ/s1600/kali-preview-boot.gif">
 
 - 🔭 **I’m currently studing in HS**
 
