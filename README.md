@@ -6,14 +6,14 @@
 
 - 🔭 **I’m currently studing in 3rd year**
 
-- 🌱 **I’m currently learning everything**
+- 🌱 **I’m currently doing Cybersecurity**
 
 - 👯 **I’m looking to collaborate on my projects**
 
-- 👨‍💻 **All of my projects are available at [https://github.com/soumita1234](https://github.com/soumita1234)**
+- 👨‍💻 **All of my projects are available at [https://github.com/konkomaji](https://github.com/konkomaji)**
 
 
-- 📫 **How to reach me sb2253@it.jgec.ac.in**
+- 📫 **How to reach me konkomaji@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
