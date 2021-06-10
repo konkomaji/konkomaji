@@ -1,32 +1,32 @@
-<h1 align="center">Hello, I'm Konko👋</h1>
-<h3 align="center">_*_Anonymously protecting information from unauthorized access_*_</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=konkomaji&label=Github%20Score&color=0e75b6&style=flat" alt="konkomaji" /> </p>
-<img align="right" alt="kalilinux" width="400" src="https://1.bp.blogspot.com/-qXvGBnvRhLM/Xd3Wo4NBWYI/AAAAAAAAQ74/0ZyMYjG0u0wISdj_RKVyYW1a-xk5n6mFgCNcBGAsYHQ/s1600/kali-preview-boot.gif">
-
-- 🔭 **I’m currently studing in HS**
-
-- 🌱 **I’m currently doing Cybersecurity**
-
-- 👯 **Anonymously protecting information from unauthorized access**
-
-- 👨‍💻 **All of my projects are available at [https://github.com/konkomaji](https://github.com/konkomaji)**
-
-
-- 📫 **How to reach me konkomaji@protonmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/liya21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="liya21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/konkomaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/konkomaji" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i_am_konko_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_konko_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/soumita_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://https://www.codechef.com/users/soumita_1234" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://python.org" target="_blank"> <img src="python.org/static/community_logos/python-logo-inkscape.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://portswigger.net/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png" alt="brupsuite" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="<a href="https://iconscout.com/icons/splunk" target="_blank"></a> by <a href="https://iconscout.com/contributors/icons8" target="_blank"></a>" alt="splunk" width="40" height="40"/> </a> <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" alt="wireshark" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konkomaji&show_icons=true&locale=en&layout=compact" alt="soumita1234" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konkomaji&show_icons=true&locale=en" alt="konkomaji" /></p>
+    <h1 align="center">Hello, I'm Konko👋</h1>
+    <h3 align="center">_*_no system is safe !!_*_</h3>
+    
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=konkomaji&label=Github%20Score&color=0e75b6&style=flat" alt="konkomaji" /> </p>
+    <img align="right" alt="kalilinux" width="400" src="https://1.bp.blogspot.com/-qXvGBnvRhLM/Xd3Wo4NBWYI/AAAAAAAAQ74/0ZyMYjG0u0wISdj_RKVyYW1a-xk5n6mFgCNcBGAsYHQ/s1600/kali-preview-boot.gif">
+    
+    - 📚 **I’m currently studing in HS**
+    
+    - 👨‍💻 **Also currently Hacking Ethicaly**
+    
+    - 🛡️ **Anonymously Protecting Information from Unauthorized Access**
+    
+    - 👦 **Wanna know about me deeply [https://konkomaji.blogspot.com/](https://konkomaji.blogspot.com/)**
+    
+    
+    - 📧 **Wanna reach me konkomaji@protonmail.com**
+    
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+    <a href="https://facebook.com/konkomaji.14" target="blank"><img align="center" src="https://i.pinimg.com/originals/27/d5/42/27d542e2e2626de4c08ee3d84aaabb7b.png" alt="konkomaji" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/konkomaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/konkomaji" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/i_am_konko_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_konko_" height="30" width="40" /></a>
+    <a href="https://twitter.com/konkomaji" target="blank"><img align="center" src="https://i.pinimg.com/originals/5c/a9/8c/5ca98c73b2bb7a02bf8350933c7ca443.png" alt="konkomaji" height="40" width="40" /></a>
+    
+    
+    <h3 align="left">Languages Tools OS:</h3>
+    <p align="left"> <a href="https://python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="60" height="50"/> </a> <a href="https://portswigger.net/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png" alt="brupsuite" width="40" height="40"/> </a> <a href="https://www.splunk.com/" target="_blank"> <img src="https://www.splunk.com/content/dam/splunk-logo-dark.svg" alt="splunk" width="60" height="40"/> </a> <a href="https://www.wireshark.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1200px-Wireshark_icon.svg.png" alt="wireshark" width="40" height="40"/> </a> <a href="https://www.metasploit.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" alt="metasploit" width="40" height="40"/> </a> <a href="https://nmap.org/" target="_blank"> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> </a> <a href="https://kali.org/" target="_blank"> <img src="https://i.ibb.co/DKmz0pw/download.png" alt="kalilinux" width="40" height="40"/> </a> <a href="https://www.redhat.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/6/6c/RedHat.svg/1280px-RedHat.svg.png" alt="redhatlinux" width="90" height="40"/> </a> </p>
+    
+    
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konkomaji&show_icons=true&locale=en&layout=compact" alt="konkomaji" /></p>
+    
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konkomaji&show_icons=true&locale=en" alt="konkomaji" /></p>
