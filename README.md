@@ -29,3 +29,17 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konkomaji&show_icons=true&locale=en&layout=compact" alt="konkomaji" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konkomaji&show_icons=true&locale=en" alt="konkomaji" /></p>
+<br />
+<br />
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](<iframe src="https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD)
+<br/>
+---
+
+[![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=konkomaji&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/konkomaji/github-readme-stats)
