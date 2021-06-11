@@ -38,8 +38,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/1Xi84slp6FryDSCbzq4UCD)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD?si=0a9c4060470f47bc)
 <br/>
 ---
 
-[![Konko's github stats](https://github-readme-stats.vercel.app/api?username=konkomaji&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/konkomaji/github-readme-stats)
