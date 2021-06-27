@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konkomaji&label=Github%20Score&color=0e75b6&style=flat" alt="konkomaji" /> </p>
     <img align="right" alt="kalilinux" width="400" src="https://1.bp.blogspot.com/-qXvGBnvRhLM/Xd3Wo4NBWYI/AAAAAAAAQ74/0ZyMYjG0u0wISdj_RKVyYW1a-xk5n6mFgCNcBGAsYHQ/s1600/kali-preview-boot.gif">
 
-- 📚 **I’m currently studing in HS**
+- 📚 **I’m currently studing Commerce**
     
 - 👨‍💻 **Also currently Hacking Ethically**
  
