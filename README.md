@@ -87,22 +87,44 @@
 <!-- ░░ FEATURED WORK ░░ -->
 ## &nbsp;◆&nbsp; FEATURED WORK
 
-<div align="center">
-
-<a href="https://github.com/konkomaji/gmb-autopilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=konkomaji&repo=gmb-autopilot&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&show_owner=false" />
-</a>
-<a href="https://github.com/konkomaji/wordpress-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=konkomaji&repo=wordpress-mcp&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&show_owner=false" />
-</a>
-<a href="https://github.com/konkomaji/wp-seo-hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=konkomaji&repo=wp-seo-hub&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&show_owner=false" />
-</a>
-<a href="https://github.com/konkomaji/indianjobsmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=konkomaji&repo=indianjobsmap&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&show_owner=false" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/konkomaji/gmb-autopilot">▸ gmb-autopilot</a></h3>
+      <p>Full-stack Google Business Profile automation engine. AI reviews, content, and SEO optimizer for agencies.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/konkomaji/gmb-autopilot?style=flat-square&color=0D1117&labelColor=E4E4E7" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/konkomaji/wordpress-mcp">▸ wordpress-mcp</a></h3>
+      <p>Universal MCP server for WordPress. Connects any client site to Claude for hands-on SEO, AEO, and GEO work.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/konkomaji/wordpress-mcp?style=flat-square&color=0D1117&labelColor=E4E4E7" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/konkomaji/wp-seo-hub">▸ wp-seo-hub</a></h3>
+      <p>Open-source AI SEO dashboard for agencies. Manage multiple WP sites, optimise meta with Claude, all local.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/konkomaji/wp-seo-hub?style=flat-square&color=0D1117&labelColor=E4E4E7" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/konkomaji/indianjobsmap">▸ indianjobsmap</a></h3>
+      <p>D3 treemap of India's workforce by occupation and AI exposure. Public economic data made readable.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/konkomaji/indianjobsmap?style=flat-square&color=0D1117&labelColor=E4E4E7" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
