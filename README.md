@@ -9,20 +9,21 @@
 <!-- ░░ EXPRESSIVE DISPLAY HEADER ░░ -->
 <a href="https://github.com/konkomaji">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=40&pause=900&color=0D1117&center=true&vCenter=true&width=820&height=90&lines=KONKO+M;PERFORMANCE+MARKETING+%C3%97+POLITICS;AI+TOOLING+FROM+KOLKATA"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=900&color=0D1117&center=true&vCenter=true&width=860&height=90&lines=KONKO+M;MARKETING+ENGINEERING+%C3%97+DATA;FILM+TECHNOLOGY+RESEARCH;BUILDING+FROM+KOLKATA"
     alt="Konko M"
   />
 </a>
 
 <!-- ░░ TONAL SUBTITLE ░░ -->
 <p>
-  <b>Digital performance marketing</b> &nbsp;·&nbsp; <b>Political messaging</b> &nbsp;·&nbsp; <b>Applied AI</b>
+  <b>Open-source MarTech</b> &nbsp;·&nbsp; <b>Film technology research</b> &nbsp;·&nbsp; <b>Public &amp; economic data</b>
 </p>
 
 <!-- ░░ PILL CHIP ROW ░░ -->
 <p>
   <img src="https://img.shields.io/badge/KOLKATA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Kolkata" />
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE%20MARTECH-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Source MarTech" />
+  <img src="https://img.shields.io/badge/FILM%20TECH%20RESEARCH-0D1117?style=for-the-badge&logo=imax&logoColor=white" alt="Film Tech" />
   <img src="https://img.shields.io/badge/BUILT%20WITH%20CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://komarev.com/ghpvc/?username=konkomaji&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="views" />
 </p>
@@ -34,14 +35,14 @@
 <!-- ░░ ABOUT CARD ░░ -->
 ## &nbsp;◆&nbsp; WHO I AM
 
-> I build at the seam where **growth engineering** meets **civic and political data**.
-> One side ships AI marketing automation for agencies. The other side turns messy
-> electoral and public records into intelligence. Both run on code, both run on Claude.
+> I build **open-source tools for marketing technology**, research **film technology**
+> from IMAX to analog, and turn **public and economic data** into something readable.
+> Three lanes, one workbench. All of it runs on code, most of it runs on Claude.
 
-- **Marketing engineer.** GBP, SEO, and ad automation for agencies at scale.
-- **Civic data builder.** West Bengal 2026 electoral intelligence, jobs data, public records.
-- **AI-native.** Model Context Protocol servers, Claude pipelines, agentic tooling.
-- **Stack range.** Python data work, JavaScript dashboards, PHP WordPress engines.
+- **Open-source MarTech.** GBP, SEO, and ad automation engines for agencies and freelancers.
+- **Film technology researcher.** IMAX systems, analog film formats, capture and projection tech.
+- **Public data analyst.** Economic and civic datasets, jobs data, public records, not partisan.
+- **AI-native builder.** Model Context Protocol servers, Claude pipelines, agentic tooling.
 
 <br />
 
@@ -72,6 +73,13 @@
 ![Pandas](https://img.shields.io/badge/PANDAS-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/SHEETS-0D1117?style=for-the-badge&logo=googlesheets&logoColor=white)
 
+**Research & Focus**
+
+![IMAX](https://img.shields.io/badge/IMAX-0D1117?style=for-the-badge&logo=imax&logoColor=white)
+![Analog Film](https://img.shields.io/badge/ANALOG%20FILM-0D1117?style=for-the-badge&logo=kodak&logoColor=white)
+![Economic Data](https://img.shields.io/badge/ECONOMIC%20DATA-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Public Records](https://img.shields.io/badge/PUBLIC%20RECORDS-0D1117?style=for-the-badge&logo=databricks&logoColor=white)
+
 </div>
 
 <br />
@@ -90,8 +98,8 @@
 <a href="https://github.com/konkomaji/wp-seo-hub">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=konkomaji&repo=wp-seo-hub&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&show_owner=false" />
 </a>
-<a href="https://github.com/konkomaji/wp-certificates">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=konkomaji&repo=wp-certificates&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&show_owner=false" />
+<a href="https://github.com/konkomaji/indianjobsmap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=konkomaji&repo=indianjobsmap&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&show_owner=false" />
 </a>
 
 </div>
