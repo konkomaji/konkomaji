@@ -133,12 +133,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=konkomaji&show_icons=true&hide_border=false&title_color=0D1117&text_color=24292F&icon_color=0D1117&bg_color=FFFFFF&border_color=E4E4E7&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konkomaji&layout=compact&hide_border=false&title_color=0D1117&text_color=24292F&bg_color=FFFFFF&border_color=E4E4E7" />
+<!-- STATIC METRICS  •  committed SVG, no live host dependency -->
+<img src="https://raw.githubusercontent.com/konkomaji/konkomaji/main/github-metrics.svg" alt="metrics" width="100%" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=konkomaji&hide_border=false&background=FFFFFF&border=E4E4E7&stroke=0D1117&ring=0D1117&fire=0D1117&currStreakLabel=0D1117&sideLabels=24292F&dates=6E7681&currStreakNum=0D1117&sideNums=0D1117" />
+<img src="https://raw.githubusercontent.com/konkomaji/konkomaji/main/metrics.languages.svg" alt="languages" width="46%" align="top" />
+<img src="https://streak-stats.demolab.com?user=konkomaji&hide_border=false&background=FFFFFF&border=E4E4E7&stroke=0D1117&ring=0D1117&fire=0D1117&currStreakLabel=0D1117&sideLabels=24292F&dates=6E7681&currStreakNum=0D1117&sideNums=0D1117&card_width=490" width="46%" align="top" />
 
 <br /><br />
 
