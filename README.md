@@ -1,8 +1,5 @@
-### Konko Maji
+Exploring computational linguistics to preserve and advance the Bengali language in the AI era.
 
-Undergrad from West Bengal exploring computational linguistics to preserve and advance the Bengali language in the AI era.
-
-No computer science degree, reading Accountancy Honours. Everything here is self taught, built outside class hours. Before that, close to three years of hands on Google Ads and Meta Ads media buying.
 
 **[konkomaji.github.io](https://konkomaji.github.io)** · [Blog](https://konkomaji.github.io/blog/)
 
