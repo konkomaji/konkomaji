@@ -2,7 +2,7 @@
 
 # Hi, I'm Konko M 👋
 
-**Exploring the intersection of digital performance marketing and political messaging.**
+**Exploring computational linguistics to preserve and advance the Bengali language in the AI era.**
 
 <a href="https://github.com/konkomaji"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40konkomaji-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40konkomaji-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://x.com/lon3ana1ys7"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/x/follow/lon3ana1ys7.svg?variant=branded&amp;size=sm&amp;mode=dark"><img alt="X Follow" src="https://www.shieldcn.dev/x/follow/lon3ana1ys7.svg?variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
